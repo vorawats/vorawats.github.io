@@ -1,0 +1,40 @@
+.elementor-383 .elementor-element.elementor-element-e3f8945:not(.elementor-motion-effects-element-type-background), .elementor-383 .elementor-element.elementor-element-e3f8945 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2022/09/imgbgpc.webp");}.elementor-383 .elementor-element.elementor-element-e3f8945{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-383 .elementor-element.elementor-element-e3f8945 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-link-wrapper, 
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-custom-grid .ecs-post-loop,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor, 
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor .elementor-inner, 
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor .elementor-inner .elementor-section-wrap, 
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor .elementor-section-wrap,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor > .elementor-section,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor > .e-container,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .ecs-link-wrapper > .elementor > .e-container,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .ecs-link-wrapper > .elementor > .elementor-section,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-link-wrapper > .has-post-thumbnail, .ecs-link-wrapper > .has-post-thumbnail > .elementor-section,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .has-post-thumbnail, .ecs-post-loop > .has-post-thumbnail > .elementor-section,
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor .elementor-inner .elementor-section-wrap .elementor-top-section,  
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor .elementor-section-wrap .elementor-top-section, 
+            .elementor-383 .elementor-element.elementor-element-4fa66c7 .ecs-post-loop > .elementor .elementor-container{height:auto;}.elementor-383 .elementor-element.elementor-element-4fa66c7 .elementor-post{height:auto;}/* Start custom CSS for section, class: .elementor-element-e3f8945 */.qjFgztfJ {
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.qjFgztfJ .PIqDYEGN {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.qjFgztfJ .mOwybHuT {
+    border-top-width: 2px;
+    border-top-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    margin-top: 10px;
+    border-image: linear-gradient(90deg,rgba(0,0,0,1),rgba(236,189,123,1),rgba(0,0,0,1)) 1;
+}
+.qjFgztfJ .elementor-heading-title {
+    color: #ffe46b;
+    text-align: center;
+    font-size: 50px;
+    line-height: 1.6;
+    font-weight: 600;
+    text-shadow: 2px 2px 1px #000;
+    animation: zoom .8s ease-in-out .3s infinite alternate;
+}/* End custom CSS */
